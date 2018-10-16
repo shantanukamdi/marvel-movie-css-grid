@@ -1,0 +1,22 @@
+{
+  "name": "marvel-css-grid",
+  "version": "1.0.0",
+  "description": "Marvel Universe Movies using CSS Grid",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "CSS",
+    "Grid",
+    "Marvel",
+    "HTML",
+    "CSS"
+  ],
+  "author": "Shantanu Kamdi",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}

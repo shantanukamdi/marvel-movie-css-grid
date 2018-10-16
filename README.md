@@ -1,2 +1,2 @@
 # marvel-movie-css-grid
-A simple example of css grid. It contains list of all Marvels movies.
+A simple example of CSS Grid. It contains list of all Marvels movies.
